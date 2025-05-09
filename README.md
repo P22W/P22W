@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pascal! <br/><a href="https://github.com/P22W">Cybersecurity Consultant</a></h1>
+<h1>Hi, I'm Pascal! <a href="https://github.com/P22W">Cybersecurity Consultant</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

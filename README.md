@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pascal! <a href="https://github.com/P22W">Cybersecurity Consultant</a></h1>
+<h1>Hi, I'm Pascal! <a href="https://github.com/P22W">Cybersecurity Consultant</a>, Cloud Enthusiast</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -7,7 +7,13 @@
 
 <h2>🌱 I am currently learning:</h2>
 
-- Learning Terraform
+- Terraform
+
+<h2>⚡ Certifications:</h2>
+
+- Azure Secuirty Engineer Associate
+- AWS Solution Architect
+- Microsoft 365 Foundation
 
 
 <h2> 🤳 Connect with me:</h2>

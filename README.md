@@ -1,7 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Pascal! <br/><a href="https://github.com/P22W">Cybersecurity Consultant</a></h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Topic1</b>
+  - [Project1](https://github.com/P22W)
+
+<h2>🌱 I am currently learning:</h2>
+
+- Learning Terraform
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Pascal Wachter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/pascal-wachter-01b5a1147
 
 <!--
-**P22W/P22W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
